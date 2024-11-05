@@ -16,7 +16,7 @@
     <td style="width: 50%; vertical-align: top;">
       <p align="left">
         😄 Pronouns: He/Him<br>
-        💻 Currently a <b>Managing Strategy Consultant</b> at <a href='https://www.ibm.com/consulting?utm_content=SRCWW&p1=Search&p4=43700074472741157&p5=e&p9=58700008200331843&gclid=Cj0KCQjwvpy5BhDTARIsAHSilykhSM9lFsr_X4NwrnBmrpU3glf4_4e0Wv0t5vTaxQ7rtQzP9Ar4TIsaAqb0EALw_wcB&gclsrc=aw.ds'>IBM</a><br>
+        💻 <b>Managing Strategy Consultant</b> at <a href='https://www.ibm.com/consulting?utm_content=SRCWW&p1=Search&p4=43700074472741157&p5=e&p9=58700008200331843&gclid=Cj0KCQjwvpy5BhDTARIsAHSilykhSM9lFsr_X4NwrnBmrpU3glf4_4e0Wv0t5vTaxQ7rtQzP9Ar4TIsaAqb0EALw_wcB&gclsrc=aw.ds'>IBM</a><br>
         🤝 I am always open to collaborations!<br>
         🌱 Current Learning: <br>
         <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
