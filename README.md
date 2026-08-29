@@ -27,7 +27,7 @@
         <img
     src="https://novatorem-eight-brinkercode.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff"
     alt="Current Spotify Song"
-    width="540" height="135"
+    width="520" height="135"
 />
       </a>
     </td>
