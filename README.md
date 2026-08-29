@@ -25,9 +25,10 @@
     <td style="width: 50%; text-align: right;">
       <a href="https://open.spotify.com/user/12133038755?si=ad8b7e4f412b4e1f">
         <img
-            src="https://novatorem-eight-brinkercode.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff"
-            alt="Current Spotify Song"
-        />
+    src="https://novatorem-eight-brinkercode.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff"
+    alt="Current Spotify Song"
+    width="540" height="135"
+/>
       </a>
     </td>
   </tr>
