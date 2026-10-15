@@ -19,6 +19,7 @@
       <p align="left">
         😄 Pronouns: He/Him<br>
         💻 <b>Consultant</b> at <a href='https://www.ibm.com/consulting'>IBM</a><br>
+        👾 <b>Leader</b> at <a href='https://github.com/opalengine'>Opal Engine</a><br>
         🤝 I am always open to collaborations!<br>
       </p>
     </td>
